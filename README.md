@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am working as Sr.Software Engineer III at Axway. I am currently working on Axway Amplify Runtime Service to manage the customer and axway services.
+I am currently working as Lead Software Engineer at PacketAI.
 <!--
 **gara-MI/gara-MI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
