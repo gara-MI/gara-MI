@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently working as Lead Software Engineer at PacketAI.
+I am currently working as Engineer Manager at PacketAI.
 <!--
 **gara-MI/gara-MI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
